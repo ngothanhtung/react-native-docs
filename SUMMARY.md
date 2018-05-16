@@ -1,5 +1,5 @@
 # Table of contents
 
-* [react-native-docs](README.md)
-* [Setup and Run](README.md)
+* [React Native Tutorials](README.md)
+* [Setup and Run](setup-and-run.md)
 

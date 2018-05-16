@@ -1,4 +1,4 @@
-# react-native-docs
+# React Native Tutorials
 
 ## Setup
 
