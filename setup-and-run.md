@@ -5,8 +5,8 @@
 * Setup nodejs
 * Setup npm
 * Setup React Native CLI
-* Setup Xcode \(iOS\)
-* Setup Android Studio \(Android\)
+* Setup Expo
+* Setup Xcode (iOS)
+* Setup Android Studio (Android)
 
 ### Running
-
