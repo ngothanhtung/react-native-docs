@@ -1,3 +1,7 @@
+---
+description: Setup project
+---
+
 # Setup and Run
 
 ### Setup
